@@ -124,21 +124,16 @@ PeerReview was developed as a Full Stack MERN capstone project to demonstrate fr
 ## Screenshots
 
 ### Login
-
 ![Login Page](./screenshots/login.png)
 
 ### Register
-
 ![Register Page](./screenshots/register.png)
 
 ### Dashboard
-
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Project Submission
-
 ![Project Submission](./screenshots/submissions.png)
 
 ### Peer Reviews
-
 ![Peer Reviews](./screenshots/reviews.png)
