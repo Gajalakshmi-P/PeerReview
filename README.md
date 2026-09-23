@@ -9,7 +9,7 @@ PeerReview is a full-stack student peer feedback platform where students can sub
 - Project submission
 - View submitted projects
 - Peer project reviews
-- 1–5 star project ratings
+- 1ï¿½5 star project ratings
 - Written feedback
 - Review status tracking
 - Dashboard with project and review statistics
@@ -43,20 +43,20 @@ PeerReview is a full-stack student peer feedback platform where students can sub
 
 PeerReview/
 +-- client/
-¦   +-- src/
-¦   ¦   +-- components/
-¦   ¦   +-- pages/
-¦   ¦   +-- App.jsx
-¦   ¦   +-- index.css
-¦   ¦   +-- main.jsx
-¦   +-- package.json
-¦
+ï¿½   +-- src/
+ï¿½   ï¿½   +-- components/
+ï¿½   ï¿½   +-- pages/
+ï¿½   ï¿½   +-- App.jsx
+ï¿½   ï¿½   +-- index.css
+ï¿½   ï¿½   +-- main.jsx
+ï¿½   +-- package.json
+ï¿½
 +-- server/
-¦   +-- models/
-¦   +-- routes/
-¦   +-- server.js
-¦   +-- package.json
-¦
+ï¿½   +-- models/
+ï¿½   +-- routes/
+ï¿½   +-- server.js
+ï¿½   +-- package.json
+ï¿½
 +-- .gitignore
 +-- README.md
 
@@ -121,3 +121,19 @@ Do not commit the .env file to GitHub.
 ## Purpose
 
 PeerReview was developed as a Full Stack MERN capstone project to demonstrate frontend development, backend API development, database integration, authentication, and peer feedback workflows.
+## Screenshots
+
+### Login
+![Login Page](screenshots/login.png)
+
+### Register
+![Register Page](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Project Submission
+![Project Submission](screenshots/submissions.png)
+
+### Peer Reviews
+![Peer Reviews](screenshots/reviews.png)
